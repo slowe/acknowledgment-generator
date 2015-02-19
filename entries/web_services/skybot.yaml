@@ -1,0 +1,7 @@
+name: SkyBoT
+category: web_services
+tags:
+text: This research has made use of the SkyBoT project (set up under the auspice of the French Ministry for National Education and CNRS).
+url: http://vo.imcce.fr/webservices/skybot/
+dependencies:
+bibtex: 
